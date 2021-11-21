@@ -1,11 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Bhavik Jadav</h1>
 <h3 align="center">Data Science Enthusiast.</h3>
 
-- 🔭 I’m currently working on **Web Development with MERN stack.**
+- 🔭 I’m currently working on **Data Science using Python.**
 
-- 🌱 I’m currently learning **Data Analysis, Machine Learning**
+- 🌱 I’m currently learning **RNNs, GANs and so on..**
 
-- 💬 Ask me about **Python, IPython, JavaScript**
+- 💬 Ask me about **Python, IPython, Data Science**
 
 - 📫 How to reach me **bhavik.jadav89@gmail.com**
 
