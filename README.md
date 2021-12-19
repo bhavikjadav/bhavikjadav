@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Data Science using Python.**
 
-- 🌱 I’m currently learning **RNNs, GANs and so on..**
+- 🌱 I’m ready to handle your **your deep learning projects.**
 
 - 💬 Ask me about **Python, IPython, Data Science**
 
-- 📫 How to reach me **bhavik.jadav89@gmail.com**
+- 📫 How to reach me ? : **bhavik.jadav89@gmail.com**
 
 - ⚡ Fun fact **What is a ghost's favorite type ????? ====> Boooooolean**
 
